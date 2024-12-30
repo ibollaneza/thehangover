@@ -1,3 +1,0 @@
-// script.js
-
-// Puedes añadir interactividad aquí si lo necesitas.
